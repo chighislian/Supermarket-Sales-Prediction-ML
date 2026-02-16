@@ -130,6 +130,7 @@ pip install pandas numpy scikit-learn matplotlib
 ## 🎯 Business Impact
 
 This project demonstrates how machine learning can:
+
 	•	Improve operational efficiency
 	•	Support data-driven decisions
 	•	Increase profitability
